@@ -1,10 +1,12 @@
+/* this is a project from JetBrains Academy!
+*/
 # Simple-Chatty-Bott
 package bot;
 
 import java.util.Scanner;
 
 public class SimpleBot {
-    final static Scanner scanner = new Scanner(System.in); // Do not change this line
+    final static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
         greet("Flavia", "1999"); // change it as you need
@@ -56,6 +58,6 @@ public class SimpleBot {
     }
 
     static void end() {
-        System.out.println("Congratulations, have a nice day!"); // Do not change this text
+        System.out.println("Congratulations, have a nice day!"); 
     }
 }
