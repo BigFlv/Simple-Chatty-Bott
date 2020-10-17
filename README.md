@@ -1,5 +1,5 @@
-/* this is a project from JetBrains Academy!
-*/
+ this is a project from JetBrains Academy!
+
 
     # Simple-Chatty-Bott
     package bot;
