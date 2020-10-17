@@ -1,5 +1,4 @@
- this is a project from JetBrains Academy!
-
+ The code is made according to the requirements of the JetBrains Academy.
 
     # Simple-Chatty-Bott
     package bot;
