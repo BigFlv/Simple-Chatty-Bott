@@ -1,11 +1,12 @@
 /* this is a project from JetBrains Academy!
 */
-# Simple-Chatty-Bott
-package bot;
 
-import java.util.Scanner;
+    # Simple-Chatty-Bott
+    package bot;
 
-public class SimpleBot {
+    import java.util.Scanner;
+
+    public class SimpleBot {
     final static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
@@ -60,4 +61,4 @@ public class SimpleBot {
     static void end() {
         System.out.println("Congratulations, have a nice day!"); 
     }
-}
+  }
